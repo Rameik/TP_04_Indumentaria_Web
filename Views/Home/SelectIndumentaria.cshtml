@@ -1,0 +1,79 @@
+﻿@{
+    ViewData["Title"] = "Seleccione su indumentaria";
+    int cont = 1;
+    int cont2 = 1;
+    int cont3 = 1;
+}
+<div class="text-center">
+    @if(@ViewBag.Error != ""){
+        <h1>@ViewBag.Error</h1>
+    }
+    @if (@ViewBag.Existe == true)
+    {
+        <h2>No se pudo crear su equipo debido a que el equipo seleccionado ya fue previamente creado. Por favor seleccione otro equipo</h2>
+    }
+    <h1>@ViewBag.Pudo</h1>
+    <h2>@ViewData["Title"]</h2>
+    <form action='@Url.Action("GuardarIndumentaria")'>
+    <p></p>
+
+    <div class="equipos">
+        <h4>Seleccione su equipo</h4>
+        <p></p>
+        @foreach (var item in ViewBag.ListaEquipos)
+        {
+            <input type="radio" name="equipo" value="@item"> <b> @item </b>
+        }
+        <br>
+    </div>
+
+    <p></p>
+
+    <div class="medias">
+        <h4>Seleccione sus medias</h4>
+        @foreach (var item in ViewBag.ListaMedias)
+        {
+            <tr>
+            <input type="radio" name="media" value="@item"> 
+            Opcion @cont:
+            <img src="/@item" alt="ads" width="163"> 
+            </tr>
+            cont++;
+        }
+        <br>
+    </div>
+
+    <div class="pantalones">
+        <h4>Seleccione sus pantalones</h4>
+        @foreach (var item in ViewBag.ListaPantalones)
+        {
+            <tr>
+            <input type="radio" name="pantalon" value="@item"> 
+            Opcion @cont2:
+            <img src="/@item" alt="ads" width="163"> 
+            </tr>
+            cont2++;
+        }
+        <br>
+    </div>
+
+    <div class="remeras">
+        <h4>Seleccione su remera</h4>
+        @foreach (var item in ViewBag.ListaRemeras)
+        {
+            <tr>
+            <input type="radio" name="remera" value="@item"> 
+            Opcion @cont3:
+            <img src="/@item" alt="ads" width="163"> 
+            </tr>
+            cont3++;
+        }
+    </div>
+
+    <p></p>
+
+    <p><input type="submit" value="Crear indumentaria"></p>
+    </form>
+    <p></p>
+</div>
+

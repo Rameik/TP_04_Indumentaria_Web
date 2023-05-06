@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido</h1>
+    <p> Seleccione aqui para <a href='@Url.Action("SelectIndumentaria")'> Crear una indumentaria</a></p>
+    @if (ViewBag.IndumentariaEquipos != null)
+    {
+        @foreach (var item in ViewBag.IndumentariaEquipos)
+        {
+            <h3>Informacion sobre el equipo @item.Key:</h3>
+            <p></p>
+            <p>
+            Medias:
+            <img src="/@item.Value.Medias" alt="ads" width="163">
+            Pantalones:
+            <img src="/@item.Value.Pantalon" alt="ads" width="163">
+            Camiseta:
+            <img src="/@item.Value.Camiseta" alt="ads" width="163"> 
+            </p>
+        }
+    }
+</div>
