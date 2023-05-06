@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP_04_Indumentaria_Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP_04_Indumentaria_Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\camiseta-almagro.jpg",
+      "PackagePath": "staticwebassets\\camiseta-almagro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\camiseta-atlanta.jpg",
+      "PackagePath": "staticwebassets\\camiseta-atlanta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\camiseta-boca.jpg",
+      "PackagePath": "staticwebassets\\camiseta-boca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\camiseta-chacarita.jpg",
+      "PackagePath": "staticwebassets\\camiseta-chacarita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\camiseta-chicago.jpg",
+      "PackagePath": "staticwebassets\\camiseta-chicago.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\camiseta-ferro.jpg",
+      "PackagePath": "staticwebassets\\camiseta-ferro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\camiseta-independiente.jpg",
+      "PackagePath": "staticwebassets\\camiseta-independiente.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\camiseta-racing.jpg",
+      "PackagePath": "staticwebassets\\camiseta-racing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\camiseta-river.jpg",
+      "PackagePath": "staticwebassets\\camiseta-river.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\camiseta-villa-mitre.jpg",
+      "PackagePath": "staticwebassets\\camiseta-villa-mitre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\medias-almagro.jpg",
+      "PackagePath": "staticwebassets\\medias-almagro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\medias-atlanta.jpg",
+      "PackagePath": "staticwebassets\\medias-atlanta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\medias-boca.jpg",
+      "PackagePath": "staticwebassets\\medias-boca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\medias-chacarita.jpg",
+      "PackagePath": "staticwebassets\\medias-chacarita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\medias-chicago.jpg",
+      "PackagePath": "staticwebassets\\medias-chicago.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\medias-ferro.jpg",
+      "PackagePath": "staticwebassets\\medias-ferro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\medias-independiente.jpg",
+      "PackagePath": "staticwebassets\\medias-independiente.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\medias-racing.jpg",
+      "PackagePath": "staticwebassets\\medias-racing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\medias-river.jpg",
+      "PackagePath": "staticwebassets\\medias-river.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\medias-villa-mitre.jpg",
+      "PackagePath": "staticwebassets\\medias-villa-mitre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\pantalon-almagro.jpg",
+      "PackagePath": "staticwebassets\\pantalon-almagro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\pantalon-atlanta.jpg",
+      "PackagePath": "staticwebassets\\pantalon-atlanta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\pantalon-boca.jpg",
+      "PackagePath": "staticwebassets\\pantalon-boca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\pantalon-chacarita.jpg",
+      "PackagePath": "staticwebassets\\pantalon-chacarita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\pantalon-chicago.jpg",
+      "PackagePath": "staticwebassets\\pantalon-chicago.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\pantalon-ferro.jpg",
+      "PackagePath": "staticwebassets\\pantalon-ferro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\pantalon-independiente.jpg",
+      "PackagePath": "staticwebassets\\pantalon-independiente.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\pantalon-racing.jpg",
+      "PackagePath": "staticwebassets\\pantalon-racing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\pantalon-river.jpg",
+      "PackagePath": "staticwebassets\\pantalon-river.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Indumentaria_Web\\wwwroot\\pantalon-villa-mitre.jpg",
+      "PackagePath": "staticwebassets\\pantalon-villa-mitre.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TP_04_Indumentaria_Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TP_04_Indumentaria_Web.props",
+      "PackagePath": "build\\TP_04_Indumentaria_Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TP_04_Indumentaria_Web.props",
+      "PackagePath": "buildMultiTargeting\\TP_04_Indumentaria_Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TP_04_Indumentaria_Web.props",
+      "PackagePath": "buildTransitive\\TP_04_Indumentaria_Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
