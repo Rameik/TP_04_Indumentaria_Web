@@ -21,9 +21,11 @@ public class HomeController : Controller
         return View("Index");
     }
 
-    public IActionResult Privacy()
+    public IActionResult BuscarIndumentaria(string busqueda)
     {
-        return View();
+        ViewBag.busqueda = busqueda;
+        ViewBag.IndumentariaEquipos = Equipos.equiposIndumentaria;
+        return View("BuscarIndumentaria");
     }
     public IActionResult SelectIndumentaria()
     {
@@ -61,6 +63,7 @@ public class HomeController : Controller
         }
         
     }
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
