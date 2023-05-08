@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Busqueda de Indumentaria";
+    bool encontro = false;
+}
+
+<div class="text-center">
+    <h1>@ViewData["Title"]</h1>
+    @foreach (var item in ViewBag.IndumentariaEquipos)
+    {
+        @if(ViewBag.busqueda == item.Key){
+        <h3>Informacion sobre el equipo @item.Key:</h3>
+        <p></p>
+        <p>
+        Medias:
+        <img src="/@item.Value.Medias" alt="ads" width="163">
+        Pantalones:
+        <img src="/@item.Value.Pantalon" alt="ads" width="163">
+        Camiseta:
+        <img src="/@item.Value.Camiseta" alt="ads" width="163"> 
+        </p>
+        encontro = true;
+        }
+    }
+    @if(encontro == false)
+    {
+        <h3>No se encontro el equipo que buscaste. Volve a escribirlo y fijate si esta bien escrito. Si lo esta, el equipo no se creó todavia</h3>
+    }
+    <form action='@Url.Action("Index")'>
+        <p><input type = "submit" value = "Volver"></p>
+    </form>
+</div>
