@@ -17,7 +17,7 @@ public class HomeController : Controller
     {
         
         ViewBag.IndumentariaEquipos = Equipos.equiposIndumentaria;
-
+        Console.WriteLine(Equipos.equiposIndumentaria.Count);
         return View("Index");
     }
 
