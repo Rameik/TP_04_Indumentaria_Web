@@ -5,7 +5,7 @@
 <div class="text-center">
     <h1 class="display-4">Bienvenido</h1>
     <p> Seleccione aqui para <a href='@Url.Action("SelectIndumentaria")'> Crear una indumentaria</a></p>
-    @if (ViewBag.IndumentariaEquipos != null)
+    @if (ViewBag.IndumentariaEquipos.Count != 0)
     {
         <h2>Busque una indumentaria para ver si ya fue creada:</h2>
         <form action='@Url.Action("BuscarIndumentaria")'>
