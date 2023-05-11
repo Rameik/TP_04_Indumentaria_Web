@@ -7,9 +7,14 @@
     <p> Seleccione aqui para <a href='@Url.Action("SelectIndumentaria")'> Crear una indumentaria</a></p>
     @if (ViewBag.IndumentariaEquipos.Count != 0)
     {
-        <h2>Busque una indumentaria para ver si ya fue creada:</h2>
+        <h2>Elija una indumentaria para ver su informacion:</h2>
         <form action='@Url.Action("BuscarIndumentaria")'>
-            <input type="search" name = "busqueda">
+            <select name="busqueda" id="">
+                @foreach (var item in ViewBag.IndumentariaEquipos)
+                {
+                    <option>@item.Key</option>
+                }
+            </select>
             <input type = "submit" value = "Buscar">
         </form>
     }
